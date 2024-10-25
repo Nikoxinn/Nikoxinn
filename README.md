@@ -6,4 +6,4 @@ Ola, meu nome é Nicolas Colaço
 
 Você pode entrar em contato comigo em @nicolas.colaco@escola.pr.gov.br 📩
 
-![Cat Meme](https://tenor.com/mSixwSrWbtS.gif)
+![Cat Meme] (https://tenor.com/mSixwSrWbtS.gif)
